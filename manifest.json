@@ -1,9 +1,9 @@
 {
-    "version": "0.2",
+    "version": "0.2.1",
     "__metadata__" : {
-        "license_url" : "https://www.cancergenomeinterpreter.org/faq#q11c",
-        "licence" : "CC BY-NC 4.0",
-        "url" : "https://www.cancergenomeinterpreter.org"
+        "license_url" : "https://google.com",
+        "licence" : "CC BY-NC 4.0 - TEST",
+        "url" : "https://google.com"
     },
     "dumper" : {
         "data_url" : "https://www.cancergenomeinterpreter.org/data/cgi_biomarkers_latest.zip",
